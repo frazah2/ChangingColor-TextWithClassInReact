@@ -1,0 +1,12 @@
+.nav{
+    height: 510px;
+    background-color: rgb(147, 186, 235);
+    float: left;
+    margin-right: 10px;
+    padding: 20px;
+}
+
+.colorR {
+    background-color: rgb(250, 176, 176);
+  }
+  

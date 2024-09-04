@@ -1,0 +1,20 @@
+p{
+    padding: 0;
+    margin: 0;
+}
+.footer{
+    width: 82%;
+    height: 110px;
+    background-color: rgb(147, 186, 235);
+    margin-top: 10px;
+    float: left;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.colorG {
+    background-color: rgb(127, 186, 116);
+  }
+  
